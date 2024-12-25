@@ -82,3 +82,9 @@ The game logic is handled by a Solidity smart contract deployed on the blockchai
 - `gameStarted()`: Checks if the game has started.
 - `lastWord()`: Gets the last word guessed.
 - `currentPlayer()`: Gets the current player's address.
+
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-25 at 1 28 42 PM" src="https://github.com/user-attachments/assets/ce489851-79bc-483c-a306-9f77e888cf10" />
+<img width="1334" alt="Screenshot 2024-12-25 at 1 29 05 PM" src="https://github.com/user-attachments/assets/31ba492d-68f9-40f2-b573-a9bcec89343d" />
+
+
